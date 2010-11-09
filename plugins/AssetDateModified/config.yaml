@@ -1,0 +1,16 @@
+# AssetDateModified
+#
+# Release 0.01 (Nov 10, 2010)
+#
+# Copyright (c) 2004-2010 Yujiro Araki
+
+name: AssetDateModified
+id: AssetDateModified
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+doc_link: http://www.koikikukan.com/archives/2010/11/10-085555.php
+description: AssetDateModified
+version: 0.01
+tags:
+    function:
+        AssetDateModified: $AssetDateModified::AssetDateModified::Tags::_hdlr_asset_date_modified
